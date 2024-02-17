@@ -1,0 +1,30 @@
+1{
+  "project_info": {
+    "project_number": "765660427066",
+    "firebase_url": "https://socialmediaapp-b8440-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "socialmediaapp-b8440",
+    "storage_bucket": "socialmediaapp-b8440.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765660427066:android:3714b853d7882b406dd603",
+        "android_client_info": {
+          "package_name": "com.android.gepzmedia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwmQvIc2y-pY4ly_GNuEQLCmeSQaI-opo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
